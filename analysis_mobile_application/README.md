@@ -8,3 +8,5 @@
 ## Инструменты<a class="tocSkip">
 
 Matplotlib, Pandas, Plotly, Python, Seaborn, A/B-тестирование, визуализация данных, проверка статистических гипотез, продуктовые метрики, событийная аналитика.
+
+[Если не отображается воронка продаж](https://github.com/AlexandrAfanasyev/storage/blob/main/analysis_mobile_application/joxi_screenshot_1625774295501.png)  
